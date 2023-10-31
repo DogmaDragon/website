@@ -1,18 +1,10 @@
- - name: Source Code
-   link: https://github.com/stashapp/stash
-   new_window: true
-   highlight: false
-- name: Documentation
+ - name: Documentation
    link: https://docs.stashapp.cc
    new_window: true
    highlight: false
- - name: Volunteer
+ - name: Volunteer for Stash
    link: /volunteer/
    new_window: false
-   highlight: false
- - name: Donate
-   link: https://opencollective.com/stashapp
-   new_window: true
    highlight: false
  #- name: Documentation
 #   link: /docs/
